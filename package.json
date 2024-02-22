@@ -1,8 +1,8 @@
 {
 	"name": "uniwebview5",
 	"displayName": "uniwebview5",
-	"description": "uniwebview5 plugin",
-	"version": "5.7.1 (24 Nov, 2023)",
+	"description": "uniwebview5",
+	"version": "5.7.1",
 	"unity": "2020.3.40f1",
 	"license": "MIT"
   }
